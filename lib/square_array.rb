@@ -3,5 +3,5 @@ def square_array(array)
   for i in 0..l 
     array[i] = Math.sqrt(array[i])
   end 
-  array
+  # array
 end
